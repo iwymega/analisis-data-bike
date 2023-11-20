@@ -1,7 +1,8 @@
 
 # Analisis Data Bike Rental - Final Project Data Analytics
 
-Ini adalah proyek akhir dari Dicoding dalam kursus "Belajar Analisis Data Dengan Python" untuk melakukan analisis dan membuat dasbor dari dataset berbagi sepeda. Dalam file notebook, saya menyertakan cara saya melakukan analisis dari Data Wrangling, Exploratory Data Analysis, dan Data Visualization. Selain itu, saya juga membuat dasbor menggunakan streamlit, dan Anda dapat memeriksanya dengan mengklik tautan di sidebar kanan atau di sini.
+Ini adalah proyek akhir dari Dicoding dalam kursus "Belajar Analisis Data Dengan Python" untuk melakukan analisis dan membuat dasbor dari dataset berbagi sepeda. Dalam file notebook, saya menyertakan cara saya melakukan analisis dari Data Wrangling, Exploratory Data Analysis, dan Data Visualization. Selain itu, saya juga membuat dasbor menggunakan streamlit, dan Anda dapat memeriksanya dengan mengklik tautan di sidebar kanan atau di [sini](https://iwymegabikedata.streamlit.app/).
+
 
 Untuk informasi lebih lanjut, seperti latar belakang dataset ini, karakteristik dataset, struktur file, dan lainnya, Anda dapat melihat file Readme. Jadi di sini, saya tidak akan menjelaskannya lebih lanjut.
 
@@ -40,7 +41,7 @@ Untuk informasi lebih lanjut, seperti latar belakang dataset ini, karakteristik 
 - Membuat komponen filter pada dasbor
 - Menyelesaikan dasbor dengan berbagai visualisasi data
 
-**Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.**
+**Catatan: Angka 1 hingga 3 berada dalam dicoding-collection-exercise dan angka 4 berada dalam dashboard.**
 
 ## 3. Getting Started
 ### `notebook.ipynb`
@@ -58,3 +59,8 @@ Untuk informasi lebih lanjut, seperti latar belakang dataset ini, karakteristik 
 4. Buka VSCode Anda dan jalankan file dengan mengklik terminal dan menulis streamlit run dashboard.py.
 
 ## 4. Screenshots
+![gambar1](https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%201.png)
+![gambar2](https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%202.png)
+![gambar3](https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%203.png)
+![gambar4](https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%204.png)
+
