@@ -58,3 +58,8 @@ Untuk informasi lebih lanjut, seperti latar belakang dataset ini, karakteristik 
 4. Buka VSCode Anda dan jalankan file dengan mengklik terminal dan menulis streamlit run dashboard.py.
 
 ## 4. Screenshots
+(https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%201.png)
+(https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%202.png)
+(https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%203.png)
+(https://github.com/iwymega/analisis-data-bike/blob/main/screenshots/Screenshot%204.png)
+
